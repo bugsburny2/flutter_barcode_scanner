@@ -1,4 +1,4 @@
-# flutter_barcode_scanner
+# flutter_barcode_scanner support for official local_auth plugin
 
 A plugin for Flutter apps that adds barcode scanning support on both Android and iOS.
 
