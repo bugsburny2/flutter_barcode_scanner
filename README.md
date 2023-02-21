@@ -1,3 +1,8 @@
+# Reason of this fork
+TylerByte fixed a compatibility issue with local_auth and the FlutterFragmentActivity.
+But since then, Amol Gangadhare published version 2.0.0 of the plugin.
+This fork is a rebase on v2.0.0
+
 # flutter_barcode_scanner support for official local_auth plugin
 
 A plugin for Flutter apps that adds barcode scanning support on both Android and iOS.
